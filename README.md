@@ -27,8 +27,8 @@ Upload HTML file:  <br/>
 <img src="https://i.imgur.com/4uHT40X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create and Edit Bucket Policy: <br/>
+<img src="https://i.imgur.com/GGmuIPY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>

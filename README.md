@@ -27,14 +27,17 @@ Upload HTML file:  <br/>
 <img src="https://i.imgur.com/4uHT40X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+ <br />
+<br />
+ Enable Static Web Hosting:  <br/>
+<img src="https://i.imgur.com/S0RcgRD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Create and Edit Bucket Policy: <br/>
 <img src="https://i.imgur.com/GGmuIPY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />

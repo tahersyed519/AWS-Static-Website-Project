@@ -1,6 +1,6 @@
 # AWS-Static-Website-Project<h1>AWS-Static-Website-Project</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [Website Link](https://s3.us-east-1.amazonaws.com/taherproject.click/AWS%20Static%20Website.html?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEI%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMiJIMEYCIQDMjVVl7ZoxA%2BocK%2BD0dajjAXZQTzsT2AX7CFFl3KKQzwIhAKdVHNnEZ2CyyWyYZM2ky8M6uH5Fc6KvraYIT%2FqNncKrKuQCCHgQARoMOTM3ODcyNTUxNTYxIgzfWgSb%2FiBvl1GhF5gqwQIaxUUaogkK9vShTM2%2FOjYWyypfVR%2BwPUVty28qetiL9HDOiP6MV13fRodQ6RqNnRnMk2vDNtLcLQS59PmyVbJiI3rnFS8bqjtyq6k%2F%2FZlXkVFhM7lQ6k1wXEoot3wVIpaEEoaANGgVvGSLcFOXgf82WyPvStUuCQ%2BhpONVXak4ho5QpCvFl01sme4hqmhuYCGDZKD%2FbOIROPpz7gAcxWU00d5YEn%2B%2BvLOyahaBeEBX77HoZK82cxJldPIpI7NHJKDCVHkLSHMla9H%2FUMuUM0D2wVWpd1qN6%2FyZutVKLpxkqFOc51OUta5CozOetQqof5hLMqr6dHuFMOs57L4yLgJuZCuoRQvZ3fcu6k39xhEwSKxsEfpOBgsvfIqLTYJUnvyA02rIwofy9JpdP8xFkZIVZYCZJwnZZHCy7RhCNHG5HMcwjbDirgY6sgLHjILHpiKWV7Ys6xioJiOjXOI0ofgPNnChN2bVlutNFvGwKsacqsxN8G%2F9DR5vHQcjjLH2iohCtMhPQqyS%2FN0QSFZ5EiTcsfSff7OaTqytpcStw6ThfksvGza3cI70wPLlXM0xiEVMaEOvU1TTLaD9uvVn4MrN6yKLRcwUWiGhWWg8FEHTGGQ%2B0OgJkfz5nl9xAQnNbpqhHfyoYt4rtUvUQwQu15yPil6O1DEr%2BfdJbTM9ZsV3uBTeYG4nrd9TV1nInhbi8jIjTPgSZKGrvaQN%2F%2F0ccVMXmQ%2FxoCscO0v2Iro2FnjnMbNsUcLrvtcoaW1DUBh%2FjXoW8ufYJKgHc7r8hd0zvuPAbtzXMaNwUlhdS2O5WQxmmHBXnE%2BIiEuxNydmMMlm6GaIOLdWZEtX9xtCBeU%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240223T145814Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIA5UXMPN2ETDYKRXSO%2F20240223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=df229ba7b9fc70213293af3554d139cadd3f6aadc22461e27502328198271b92)
 
 <h2>Description</h2>
 
@@ -39,13 +39,11 @@ Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open Website:  <br/>
+<img src="https://i.imgur.com/OhDUDzc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 
 <!--
  ```diff

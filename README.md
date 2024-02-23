@@ -15,34 +15,35 @@
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+- <b> AWS Console</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Register Domain: <br/>
+Registered Domain: <br/>
 <img src="https://i.imgur.com/EPjgMGc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Upload HTML file:  <br/>
+Uploaded an HTML file I created:  <br/>
 <img src="https://i.imgur.com/4uHT40X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
  <br />
 <br />
- Enable Static Web Hosting:  <br/>
+ Enabled Static Web Hosting:  <br/>
 <img src="https://i.imgur.com/S0RcgRD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create and Edit Bucket Policy: <br/>
+Created and Edit Bucket Policy: <br/>
 <img src="https://i.imgur.com/GGmuIPY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created and Defined a Record:  <br/>
+<img src="https://i.imgur.com/UQjEEkB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Open Website:  <br/>
+Opened the Website:  <br/>
 <img src="https://i.imgur.com/OhDUDzc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
